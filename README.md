@@ -10,6 +10,9 @@ https://github.com/ppsilva/inkscape-android-template
 ### Part I 
 the idea is to have a couple of nexus "screens"(parent layers) featuring different components and their specs including color. Right now I didn't pay any attention to any of the components' color (apart from the text) 
 
+[Lists specs reference](https://material.io/design/components/lists.html#specs)
+[Backdrop specs reference](https://material.io/design/components/backdrop.html#specs)
+
 ### Part II
 Ideally, at the end, I would like to make not only one SVG file but many:
 - File with all components
