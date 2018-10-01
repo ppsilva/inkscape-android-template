@@ -1,0 +1,1 @@
+# inkscape-android-template
