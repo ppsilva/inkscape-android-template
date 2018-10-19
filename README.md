@@ -36,8 +36,12 @@ Set up for every asset inside of a component (e.g.: icon) export and proceed by 
 - App Bar
 - Background
 
+![Grid 4](Screenshots/inkscape-android-template-screenshot.png)
+
+## Grids
+![Grid 8](Screenshots/inkscape-android-template-grid8.png)
+![Grid 4](Screenshots/inkscape-android-template-grid4.png)
+
 ### Contact me
 Hey, My name is Pedro Silva! 
 mail@pedropintosilva.com
-
-https://pedropintosilva.com
